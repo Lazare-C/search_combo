@@ -2,5 +2,4 @@
 *.txt
 *.temp
 *.temp
-db/coombo AR.txt.temp
-.vscode/
+vscode/
