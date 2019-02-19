@@ -3,8 +3,9 @@
 ## **I made a simple tool in Python**
 
  1. put your database `.txt` in /db (their name is not important)
- 2. the only command is `python search.py "MAIL"`
- 3. it's done!
+ 2. all databse must are `mail:pass`!
+ 3. the only command is `python search.py "MAIL"`
+ 4. it's done!
  
 
 > 2 secondes for 1000 try with a basic computeur
