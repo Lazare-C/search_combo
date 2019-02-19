@@ -1,5 +1,4 @@
-[# search_combo
-](# Search mail in multiple combolist files !
+# Search mail in multiple combolist files !
 
 ## **I made a simple tool in Python**
 
@@ -7,5 +6,9 @@
  2. the only command is `python search.py "MAIL"`
  3. it's done!
  
+
+> 2 secondes for 1000 try with a basic computeur
+
  ![this is fast](https://i.imgur.com/9I8lZ3P.gif)
- ![Its down](https://i.imgur.com/vkNtL25.png))
+ 
+ ![Its down](https://i.imgur.com/vkNtL25.png)
